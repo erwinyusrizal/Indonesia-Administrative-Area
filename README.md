@@ -7,6 +7,6 @@ Indonesia Administrative Area (Propinsi, Kabupaten/Kota, Kecamatan, Kelurahan, K
 - areas.json
 - areas.csv
 
-| Propinsi | Kabupaten/Kota | Kecamatan | Kelurahan | Kode Pos |
-| ------ | ------ | ------ | ------ | ------ |
-| 34 | 812 | 6940 | 82264 | 82509 |
+| Propinsi | Kabupaten/Kota | Kecamatan | Kelurahan |
+| ------ | ------ | ------ | ------ |
+| 34 | 812 | 6940 | 82264 | 82264 |
